@@ -11,3 +11,5 @@
 </ul>
 <br>
 <hr/>
+
+<img align="center" src="./components/titles/pt/stack.png" width="100%" alt="Título da seção Minha Stack" />
