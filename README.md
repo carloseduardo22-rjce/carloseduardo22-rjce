@@ -9,4 +9,5 @@
   <li>🚀 Evoluindo continuamente em <strong>Java</strong> e em seu ecossistema.</li>
   <li>🇺🇸 Tenho inglês intermediário.</li>
 </ul>
+<br>
 <hr/>
