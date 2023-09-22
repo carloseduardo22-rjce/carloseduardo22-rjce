@@ -9,3 +9,9 @@
   <li>🚀 Evoluindo continuamente em <strong>Java</strong> e em seu ecossistema.</li>
   <li>🇺🇸 Tenho inglês intermediário.</li>
 </ul>
+
+<div align="center">
+  <a href="https://github.com/tthn0/Spotify-Readme">
+    <img src="https://api-spotfy-readme.vercel.app/api" alt="Músca que está tocando no spotfy do Carlos neste momento.">
+  </a>
+</div>
