@@ -1,7 +1,7 @@
 <hr>
 
 <img align="center" src="./components/titles/pt/about.png" width="100%" alt="Título da seção Sobre Mim" />
-<img align="right" src="./images/bedroom.gif" border="2" width="372px" height="278px" alt="Gif quarto" />
+<img align="right" src="./images/bedroom.gif" border="2" width="310px" height="250px" alt="Gif quarto" />
 <ul>
   <li>🤩️ Apaixonado por Programação, futebol, música e livros.</li>
   <li>💻 <b>Estudo</b> na <a href="https://www.uninter.com/centro-universitario-internacional/" target="_blank">Uninter</a>.
