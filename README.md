@@ -17,7 +17,7 @@
 <table align="center" height="255px">
   <tr>
     <td align="center">
-      <a href="https://pt-br.reactjs.org/">
+      <a href="https://www.java.com/pt-BR/">
         <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java icon"/><br/>
         <sub>
           <b>
@@ -27,7 +27,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://pt-br.reactjs.org/">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
         <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="JavaScript icon"/><br/>
         <sub>
           <b>
@@ -37,7 +37,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://pt-br.reactjs.org/">
+      <a href="https://www.mysql.com/">
         <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br/>
         <sub>
           <b>
@@ -47,7 +47,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://pt-br.reactjs.org/">
+      <a href="https://spring.io/projects/spring-boot">
         <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="Spring boot icon"/><br/>
         <sub>
           <b>
