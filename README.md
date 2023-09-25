@@ -27,11 +27,11 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
-        <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="JavaScript icon"/><br/>
+      <a href="https://spring.io/projects/spring-boot">
+        <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="Spring boot icon"/><br/>
         <sub>
           <b>
-            <pre>JavaScript</pre>
+            <pre>Spring boot</pre>
           </b>
         </sub>
       </a>
@@ -47,11 +47,11 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://spring.io/projects/spring-boot">
-        <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="Spring boot icon"/><br/>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
+        <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="JavaScript icon"/><br/>
         <sub>
           <b>
-            <pre>Spring boot</pre>
+            <pre>JavaScript</pre>
           </b>
         </sub>
       </a>
