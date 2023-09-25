@@ -66,5 +66,15 @@
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
+        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br/>
+        <sub>
+          <b>
+            <pre>HTML5</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
