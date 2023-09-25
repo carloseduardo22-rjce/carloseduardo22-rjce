@@ -46,5 +46,15 @@
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://pt-br.reactjs.org/">
+        <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="Spring boot icon"/><br/>
+        <sub>
+          <b>
+            <pre>Spring boot</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
