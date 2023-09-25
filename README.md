@@ -36,5 +36,15 @@
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://pt-br.reactjs.org/">
+        <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br/>
+        <sub>
+          <b>
+            <pre>MySQL</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
