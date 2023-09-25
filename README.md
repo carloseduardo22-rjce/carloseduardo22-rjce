@@ -47,21 +47,21 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
-        <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="JavaScript icon"/><br/>
-        <sub>
-          <b>
-            <pre>JavaScript</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://aws.amazon.com/pt/">
         <img src="https://skillicons.dev/icons?i=aws" width="65px" alt="AWS icon"/><br/>
         <sub>
           <b>
             <pre>AWS</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
+        <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="JavaScript icon"/><br/>
+        <sub>
+          <b>
+            <pre>JavaScript</pre>
           </b>
         </sub>
       </a>
