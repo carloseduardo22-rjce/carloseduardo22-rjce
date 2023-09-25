@@ -13,3 +13,18 @@
 <hr/>
 
 <img align="center" src="./components/titles/pt/stack.png" width="100%" alt="Título da seção Minha Stack" />
+
+<table align="center" height="255px">
+  <tr>
+    <td align="center">
+      <a href="https://pt-br.reactjs.org/">
+        <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java icon"/><br/>
+        <sub>
+          <b>
+            <pre>Java</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
