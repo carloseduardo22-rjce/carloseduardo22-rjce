@@ -26,5 +26,15 @@
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://pt-br.reactjs.org/">
+        <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="JavaScript icon"/><br/>
+        <sub>
+          <b>
+            <pre>JavaScript</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
