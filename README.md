@@ -86,6 +86,16 @@
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://www.python.org/">
+        <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Python icon"/><br/>
+        <sub>
+          <b>
+            <pre>Python</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 <hr/>
