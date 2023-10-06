@@ -37,16 +37,6 @@
       </a>
     </td>
     <td align="center">
-    <td align="center">
-      <a href="https://www.python.org/">
-        <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Python icon"/><br/>
-        <sub>
-          <b>
-            <pre>Python</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
       <a href="https://www.mysql.com/">
         <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br/>
         <sub>
