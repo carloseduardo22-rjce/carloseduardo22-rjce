@@ -7,7 +7,7 @@
   <li>💻 <b>Estudo</b> na <a href="https://www.uninter.com/centro-universitario-internacional/" target="_blank">Uninter</a>.
   <li>🔮 Desenvolvedor full-stack. </li>
   <li>🚀 Evoluindo continuamente em <strong>Java</strong> e em seu ecossistema.</li>
-  <li>🇺🇸 Tenho inglês intermediário.</li>
+  <li>🇺🇸 Possuo nível intermediário no inglês. </li>
 </ul>
 <br>
 <hr/>
