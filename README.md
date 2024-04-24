@@ -27,31 +27,21 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://angular.io/">
+        <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular icon"/><br/>
+        <sub>
+          <b>
+            <pre>Angular</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://spring.io/projects/spring-boot">
         <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="Spring boot icon"/><br/>
         <sub>
           <b>
             <pre>Spring boot</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.python.org/">
-        <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Python icon"/><br/>
-        <sub>
-          <b>
-            <pre>Python</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mysql.com/">
-        <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br/>
-        <sub>
-          <b>
-            <pre>MySQL</pre>
           </b>
         </sub>
       </a>
