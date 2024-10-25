@@ -37,11 +37,11 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://spring.io/projects/spring-boot">
-        <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="Spring boot icon"/><br/>
+      <a href="https://docs.spring.io/spring-framework/reference/index.html">
+        <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="Spring icon"/><br/>
         <sub>
           <b>
-            <pre>Spring boot</pre>
+            <pre>Spring Framework</pre>
           </b>
         </sub>
       </a>
@@ -62,6 +62,16 @@
         <sub>
           <b>
             <pre>JavaScript</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.typescriptlang.org/docs/">
+        <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TS icon"/><br/>
+        <sub>
+          <b>
+            <pre>TypeScript</pre>
           </b>
         </sub>
       </a>
