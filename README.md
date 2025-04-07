@@ -37,6 +37,16 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://pt-br.react.dev/">
+        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
+        <sub>
+          <b>
+            <pre>React</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://docs.spring.io/spring-framework/reference/index.html">
         <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="Spring icon"/><br/>
         <sub>
