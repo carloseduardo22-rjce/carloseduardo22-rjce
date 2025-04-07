@@ -67,6 +67,16 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://nodejs.org/docs/latest/api/">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node JS icon"/><br/>
+        <sub>
+          <b>
+            <pre>Node JS</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://www.typescriptlang.org/docs/">
         <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TS icon"/><br/>
         <sub>
