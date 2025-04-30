@@ -3,11 +3,11 @@
 <img align="center" src="./components/titles/pt/about.png" width="100%" alt="Título da seção Sobre Mim" />
 
 <ul>
-  <li>🤩️ Apaixonado por Programação, futebol, música e livros.</li>
-  <li>💻 <b>Estudo</b> na <a href="https://www.uninter.com/centro-universitario-internacional/" target="_blank">Uninter</a>.
-  <li>🔮 Desenvolvedor full-stack. </li>
-  <li>🚀 Evoluindo continuamente em <strong>Java</strong> e em seu ecossistema.</li>
-  <li>🇺🇸 Possuo nível intermediário no inglês. </li>
+  <li>🤩️ Passionate about programming, football, music and books.</li>
+  <li>💻 <b>Study</b> in <a href="https://www.uninter.com/centro-universitario-internacional/" target="_blank">Uninter</a>.
+  <li>🔮 Full Stack Software Developer </li>
+  <li>🚀 Continuously evolving in <strong>Java</strong> and in its ecosystem.</li>
+  <li>🇺🇸 I have an intermediate level of English. </li>
 </ul>
 <br>
 <hr/>
