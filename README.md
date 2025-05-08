@@ -6,4 +6,5 @@ My name is Carlos Eduardo, I am 21 years old, I am a computer technician, softwa
 I have knowledge in several technologies and also in networks and information security.
 
 [My WebSite](https://carloseduardodev.vercel.app/) 💻 /
-[My Blog in construction](https://blog-carlosdev.netlify.app/) 🚧
+[My Blog in construction](https://blog-carlosdev.netlify.app/) 🚧 / 
+[My LinkedIn](https://www.linkedin.com/in/carlos-eduardo-a51b9925b/)
