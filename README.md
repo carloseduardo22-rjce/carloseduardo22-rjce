@@ -1,9 +1,9 @@
-# Hi! I'm Carlos Eduardo <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="35">
+# Olá! Me chamo Carlos Eduardo <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="35">
 
 ## About me
-My name is Carlos Eduardo, I am 21 years old, I am a computer technician, software engineering student and also a software developer. I have worked as an Oracle database intern, a software engineering intern and also as a junior full stack developer.
+Meu nome é Carlos Eduardo, tenho 21 anos, sou técnico em informática, estudante de engenharia de software e também desenvolvedor de software. Já atuei como estagiário de banco de dados Oracle e estagiário em Engenharia de Software.
 
-I have knowledge in several technologies and also in networks and information security.
+Também possuo conhecimento em Redes e Segurança da informação.
 
 [My WebSite](https://carloseduardodev.vercel.app/) 💻 /
 [My Blog in construction](https://blog-carlosdev.netlify.app/) 🚧 / 
