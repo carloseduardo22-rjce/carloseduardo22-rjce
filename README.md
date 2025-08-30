@@ -6,7 +6,6 @@ Meu nome é Carlos Eduardo, tenho 21 anos, sou técnico em informática, estudan
 Também possuo conhecimento em Redes e Segurança da informação.
 
 [Meu site](https://carloseduardodev.vercel.app/) 💻 /
-[Meu blog em construção](https://blog-carlosdev.netlify.app/) 🚧 / 
 [Meu linkedin](https://www.linkedin.com/in/carlos-eduardo-a51b9925b/) 🧑‍💻
 
 ##
