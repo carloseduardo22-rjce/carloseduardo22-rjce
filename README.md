@@ -1,7 +1,7 @@
 # Olá! Me chamo Carlos Eduardo <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="35">
 
 ## Sobre mim
-Meu nome é Carlos Eduardo, tenho 21 anos e sou Desenvolvedor de Software Full Stack. Já atuei como estagiário de Banco de Dados Oracle e estagiário em Engenharia de Software.
+Meu nome é Carlos Eduardo, sou natural do Ceará, tenho 21 anos e sou Desenvolvedor de Software Full Stack. Já atuei como estagiário de Banco de Dados Oracle e estagiário em Engenharia de Software.
 
 Também possuo conhecimento em Redes e Segurança da informação.
 
